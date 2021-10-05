@@ -1,6 +1,5 @@
 .ccls-cache/
 config.h
-drw.o
+*.o
 dwm
-dwm.o
-util.o
+
