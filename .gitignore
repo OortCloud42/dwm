@@ -3,3 +3,4 @@ config.h
 *.o
 dwm
 
+.vscode/c_cpp_properties.json
